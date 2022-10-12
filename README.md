@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelino-valeta
 - 👀 Enthusiast of the best web & mobile development technologies.
-- 🌱 I’m currently learning microfrontends, microservices, ddd, tdd, design pattens, clean architecture and hexagonal architecture
+- 🌱 I’m currently learning microfrontends, microservices, ddd, tdd, solid, design pattens, clean architecture and hexagonal architecture
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Angelino%20Valeta-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelino-valeta-49510818a/)](https://www.linkedin.com/in/angelino-valeta-49510818a/) 
 [![Gmail Badge](https://img.shields.io/badge/-angelinovaleta@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelinovaleta@gmail.com)](mailto:angelinovaleta@gmail.com)
 
