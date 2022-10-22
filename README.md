@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angelino-valeta
+- 👋 Hi, I’m Angelino Valeta
 - 👀 Enthusiast of the best web & mobile development technologies.
 - 🌱 I’m currently learning, golang, Microservices, Microfrontends, DDD, TDD, SOLID, Design Pattens, Clean Architecture and Hexagonal Architecture
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Angelino%20Valeta-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelino-valeta-49510818a/)](https://www.linkedin.com/in/angelino-valeta-49510818a/) 
